@@ -4,7 +4,7 @@ This is my first web scraping project where I scrape information from a blog to 
 
 # Code and Resources Used
 Python Version: 3.7
-Packages: beautiful soup
+Packages: beautiful soup (bs4), requests, csv
 For Requirements: pip install -r requirements.txt
 website link: https://www.learndatasci.com/free-data-science-books/
 
